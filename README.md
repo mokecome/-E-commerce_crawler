@@ -51,7 +51,7 @@ python spider_execute.py
 
 ## 資料更新
 每月定期更新與做報表檢視,其中Seven,Carrefour,momo,誠品數據量較大採用scrapy  
-對某些電商監控價格 EX:momo採用增量式更新  
+對某些電商監控價格 EX:momo採用增量式爬蟲更新  
 [爬蟲品質報表.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14354567/default.pptx)
 
 
