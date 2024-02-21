@@ -54,4 +54,10 @@ python spider_execute.py
 對某些電商監控價格 EX:momo採用增量式爬蟲更新  
 [爬蟲品質報表.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14354567/default.pptx)
 
+## 流程圖
+使用scrapy  
+![scrapy](https://github.com/mokecome/-E-commerce_crawler/assets/75211039/7e171b2b-c5bf-4c37-80cf-161e35893f95)
+
+未使用scrapy  
+![request](https://github.com/mokecome/-E-commerce_crawler/assets/75211039/bcef34e9-21d8-4178-b611-df79fffd0c35)
 
