@@ -47,6 +47,8 @@ python spider_execute.py
 | VEND_NM | str | 廠商名稱 | |
 | NO | str | 商品編號 |563324|
 
-
+[資料格式說明.xlsx](https://github.com/mokecome/-E-commerce_crawler/files/14354464/default.xlsx)
 
 ## 資料更新
+每月定期更新與做報表檢視
+[爬蟲品質報表.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14354567/爬蟲報表.pptx)
