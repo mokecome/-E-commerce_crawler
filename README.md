@@ -1,4 +1,4 @@
-[爬蟲執行.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14353899/default.pptx)# -E-commerce_crawler
+# -E-commerce_crawler
 ## 目的
    依據需求抓取市面上的電商Seven,Carrefour,Pxgo,momo,Ikea,Trplus,UrMart,'Uniqlo','Watsons','Poya','Eslite','Pchome'..  
    1.擴增分類的關鍵字  
@@ -18,8 +18,8 @@ pip install scipy==1.10.1
 pip install selenium==4.12.0  
 pip install scrapy==2.8.0  
 ## 使用方法
- [爬蟲執行.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14354361/default.pptx)
-pythonspider_execute.py
+ [爬蟲執行.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14354361/default.pptx)  
+python spider_execute.py
 
 ## 資料格式
 | 欄位名稱 | 資料格式 | 中文說明 | 舉例 | 
