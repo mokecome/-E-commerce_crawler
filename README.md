@@ -18,7 +18,7 @@ pip install scipy==1.10.1
 pip install selenium==4.12.0  
 pip install scrapy==2.8.0  
 ## 使用方法
-[爬蟲執行.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14354443/default.pptx)  
+[爬蟲執行.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14355109/default.pptx)  
 python spider_execute.py
 
 ## 資料格式
@@ -52,7 +52,7 @@ python spider_execute.py
 ## 資料更新
 每月定期更新與做報表檢視,其中Seven,Carrefour,momo,誠品數據量較大採用scrapy  
 對某些電商監控價格 EX:momo採用增量式爬蟲更新  
-[爬蟲品質報表.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14354567/default.pptx)
+[爬蟲品質報表.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14355114/default.pptx)
 
 ## 流程圖
 使用scrapy  
