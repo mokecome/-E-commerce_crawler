@@ -18,7 +18,7 @@ pip install scipy==1.10.1
 pip install selenium==4.12.0  
 pip install scrapy==2.8.0  
 ## 使用方法
- [爬蟲執行.pptx](https://github.com/mokecome/-E-commerce_crawler/爬蟲執行.pptx)  
+[爬蟲執行.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14354443/default.pptx)  
 python spider_execute.py
 
 ## 資料格式
