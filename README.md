@@ -2,8 +2,8 @@
 ## 目的
    依據需求抓取市面上的電商Seven,Carrefour,Pxgo,momo,Ikea,Trplus,UrMart,'Uniqlo','Watsons','Poya','Eslite','Pchome'..  
    1.擴增分類的關鍵字  
-   2.擴充模型的訓練資料以及後續retrain 
-   3.電商商品價格監控       
+   2.擴充模型的訓練資料以及後續retrain   
+   3.電商商品價格監控         
    4.電商商品趨勢分析
 ## 環境需求
 Python3.8
@@ -50,5 +50,7 @@ python spider_execute.py
 [資料格式說明.xlsx](https://github.com/mokecome/-E-commerce_crawler/files/14354464/default.xlsx)
 
 ## 資料更新
-每月定期更新與做報表檢視  
+每月定期更新與做報表檢視,其中Seven,Carrefour,momo,誠品數據量較大採用scrapy   
 [爬蟲品質報表.pptx](https://github.com/mokecome/-E-commerce_crawler/files/14354567/default.pptx)
+
+
